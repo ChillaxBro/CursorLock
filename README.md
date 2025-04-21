@@ -14,6 +14,7 @@ Why or what do I mean with this, simple:
 - The Default Keybind is "Ctrl+Alt+L" which will lock the cursor.
 
 Usage:
+.
 0. Once Running the file, a Windows Notification should pop-up (Since the app speaks with you through Notifications)
 1. When screen is in borderless of selected window, press the Keybind.
 2. Then it will lock and voilá.
