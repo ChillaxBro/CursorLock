@@ -2,7 +2,7 @@ Summary:
 
 This Program was made for Games used/bought in the "Microsoft Store".
 
-[[[https://github.com/username/repository/blob/master/img/octocat.png](https://github.com/ChillaxBro/CursorLock/blob/main/Used%20to%20make%20App/ImagesIgnore/StartingEXE.png)|alt=When Launching the .EXE]]
+![Book logo](https://github.com/ChillaxBro/CursorLock/blob/main/Used%20to%20make%20App/ImagesIgnore/StartingEXE.png)
 
 Why or what do I mean with this, simple:
 - Because Minecraft, Roblox, Sea of Thieves and many others in the Microsoft Store, for some reason whilst in Borderless or Fullscreen and running 2 monitors, the mouse cursor won't lock in the current active window.
