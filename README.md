@@ -1,8 +1,12 @@
 Summary:
 
-This Program was made for Games used/bought in the "Microsoft Store".
+This Program was made for Games used/bought in the "Microsoft Store" or games runned in borderless that the mouse keeps going to the Second Monitor.
+Issue normally found when using multiple monitors.
 
 ![Book logo](https://github.com/ChillaxBro/CursorLock/blob/main/Used%20to%20make%20App/ImagesIgnore/StartingEXE.png)
+
+Options:
+![Book logo](https://github.com/ChillaxBro/CursorLock/blob/main/Used%20to%20make%20App/ImagesIgnore/RightClicking%20In%20Background%20App.png)
 
 Why or what do I mean with this, simple:
 - Because Minecraft, Roblox, Sea of Thieves and many others in the Microsoft Store, for some reason whilst in Borderless or Fullscreen and running 2 monitors, the mouse cursor won't lock in the current active window.
