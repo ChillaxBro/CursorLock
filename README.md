@@ -3,6 +3,8 @@ Summary:
 This Program was made for Games used/bought in the "Microsoft Store" or games runned in borderless that the mouse keeps going to the Second Monitor.
 Issue normally found when using multiple monitors.
 
+PS: The File was compiled into the .exe, so just download the .exe, you don't need anything else. (Incase you want to see the code it is inside the Folder as CursorLock.py)
+
 ![Launching](https://github.com/ChillaxBro/CursorLock/blob/main/Used%20to%20make%20App/ImagesIgnore/StartingEXE.png)
 
 ![Options](https://github.com/ChillaxBro/CursorLock/blob/main/Used%20to%20make%20App/ImagesIgnore/RightClicking%20In%20Background%20App.png)
